@@ -1,5 +1,7 @@
 # Five Card Poker with Betting
 
+<img width="775" height="573" alt="image" src="https://github.com/user-attachments/assets/2100139f-8023-40c6-9a93-f714f7108b02" />
+
 ## 專案簡介
 
 本專案實作一個五張撲克牌遊戲，並加入下注（Betting）機制。
